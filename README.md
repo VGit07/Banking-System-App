@@ -38,12 +38,18 @@ A simple desktop banking system built in Python, CustomTkinter, & SQLite.
 
 ### Option 2 : Run the executeable file
 1. Copy the Repo
+2.  Install PyInstaller
+   ```
+   pip install pyinstaller
+   ```
 
-2. Run the .exe file
+
+3. Run this command where main.py is there 
    ```
-   ./Bank
+   python -m PyInstaller --onefile --noconsole --icon=ICON/bank.ico --collect-all customtkinter main.py
    ```
-3. Just click the .exe file
+
+4. Open Dist directory and click on the .exe file
 
 ---
 
