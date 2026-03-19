@@ -49,21 +49,27 @@ A simple desktop banking system built in Python, CustomTkinter, & SQLite.
 
 ## 🔐 Demo Login Credentials 
 You cab use the following credentials to test the application :
+
 <br>
+
 ```
 - Customer Name : Admin
 - Account No. : 1234567891
 - Password : admin
 - Pin : 1111
 ```
+
 <br>
+
 ```
 - Customer Name : Alice
 - Account No. : 1111111111
 - Password : password
 - Pin : 1234
 ```
+
 <br>
+
 ```
 - Customer Name : Allen
 - Account No. :  2222222221
@@ -71,6 +77,7 @@ You cab use the following credentials to test the application :
 - Pin : 4535
 ```
 <br>
+
 ---
 
 ## ⚠️ NOTE : These all are dummy credentials created for testing & demonstration purposes only . This application does not represent a real banking credentials.
