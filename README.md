@@ -41,6 +41,7 @@ A simple desktop banking system built in Python, CustomTkinter, & SQLite.
 2.  Install PyInstaller
    ```
    pip install pyinstaller
+
    ```
 
 
