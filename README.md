@@ -41,7 +41,7 @@ A simple desktop banking system built in Python, CustomTkinter, & SQLite.
 
 2. Run the .exe file
    ```
-   ./main
+   ./Bank
    ```
 3. Just click the .exe file
 
