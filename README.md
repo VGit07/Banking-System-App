@@ -48,7 +48,9 @@ A simple desktop banking system built in Python, CustomTkinter, & SQLite.
 ---
 
 ## 🔐 Demo Login Credentials 
-You cab use the following credentials to test the application :
+<br>
+
+You can use the following credentials to test the application :
 
 <br>
 
@@ -80,7 +82,7 @@ You cab use the following credentials to test the application :
 
 ---
 
-## ⚠️ NOTE : These all are dummy credentials created for testing & demonstration purposes only . This application does not represent a real banking credentials.
+## ⚠️ NOTE : These are dummy credentials created for testing & demonstration purposes only.
 
 ---
 
