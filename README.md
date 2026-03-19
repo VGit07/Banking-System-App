@@ -48,22 +48,22 @@ A simple desktop banking system built in Python, CustomTkinter, & SQLite.
 ---
 
 ## ⚙️ Sample Login Credentials for Testing
-
+br
 - Customer Name : Admin
 - Account No. : 1234567891
 - Password : admin
 - Pin : 1111
-
+br
 - Customer Name : Alice
 - Account No. : 1111111111
 - Password : password
 - Pin : 1234
-
+br
 - Customer Name : Allen
 - Account No. :  2222222221
 - Password :  password1998
 - Pin : 4535
-
+br
 ---
 
 ## ⚠️ NOTE : These all are dummy and fake users for this app
