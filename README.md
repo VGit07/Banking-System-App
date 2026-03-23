@@ -36,11 +36,16 @@ It solves the problem of Session handling and Real-time data handling.
 
 ## 📚 Modules & Libraries Used in it 
 <br>
+
 <b> CustomTkinter </b> : Used for making Modern GUI.
+
 <br>
-<b> SQLite </b> Used for making Database, Session handling and Real-time data handling.
+
+<b> SQLite </b> : Used for making Database, Session handling and Real-time data handling.
+
 <br>
-<b>PyInstaller </b> Used for making it as Fully Functional Software.
+
+<b> PyInstaller </b> : Used for making it as Fully Functional Software.
 
 ---
 
