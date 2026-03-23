@@ -1,6 +1,7 @@
 # Banking System App 🏦
 
 A simple desktop banking system built in Python, CustomTkinter, & SQLite.
+<br>
 It solves the problem of session handling and real-time data handling.
 
 ---
