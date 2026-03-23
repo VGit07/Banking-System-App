@@ -7,11 +7,13 @@
 
 A simple banking system software built fully in Python.
 <br>
-It solves the problem of session handling and Real-time data handling.
+It solves the problem of Session handling and Real-time data handling.
 <br>
 CustomTkinter is used for making Modern GUI.
 <br>
-SQLite is used for making Database, Session Handling and Real-time data handling.
+SQLite is used for making Database, Session handling and Real-time data handling.
+<br>
+<b>PyInstaller is used for making it as fully functional software.<b>
 
 ---
 ## 🚀 Features
