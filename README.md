@@ -1,6 +1,6 @@
 # Banking System App 🏦
 
-A simple desktop banking system built in Python, CustomTkinter, & SQLite.
+A simple desktop banking system built in Python, CustomTkinter, & SQLite.It solves the problem of session and real-time data handling.
 
 ---
 ## 🚀 Features
@@ -10,8 +10,8 @@ A simple desktop banking system built in Python, CustomTkinter, & SQLite.
 - Check Balance
 - Session Management
 - Logout System
-- GUI
-- .exe file
+- Modern GUI
+- .exe file options
 
 ---
 
@@ -24,6 +24,7 @@ A simple desktop banking system built in Python, CustomTkinter, & SQLite.
 ---
 
 ## ▶️ How to Run
+
 ### Option 1 : Run using Python
 1. Copy the Repo
    
