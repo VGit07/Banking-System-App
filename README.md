@@ -7,7 +7,7 @@
 
 A simple banking system software built fully in Python.
 <br>
-It solves the problem of session handling and real-time data handling.
+It solves the problem of session handling and Real-time data handling.
 <br>
 CustomTkinter is used for making Modern GUI.
 <br>
