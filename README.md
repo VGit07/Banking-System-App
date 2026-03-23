@@ -29,13 +29,16 @@ It solves the problem of Session handling and Real-time data handling.
 
 - <b> Python 🐍 </b>
 
+
 ---
 
-## 📚 Modules & Libraries Used in it 
+## 📚 Modules & Libraries Used
+
 
 - <b> CustomTkinter </b> : Used for making Modern GUI.
 - <b> SQLite </b> : Used for making Database, Session handling and Real-time data handling.
 - <b> PyInstaller </b> : Used for making it as Fully Functional Software.
+
 
 ---
 
