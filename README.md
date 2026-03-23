@@ -9,15 +9,9 @@ A <b> Simple Banking System Software </b> built fully in Python.
 <br>
 It solves the problem of Session handling and Real-time data handling.
 <br>
-<b> Modules Used in it :) </b>
-<br>
-<b> CustomTkinter </b> : Used for making Modern GUI.
-<br>
-<b> SQLite </b> Used for making Database, Session handling and Real-time data handling.
-<br>
-<b>PyInstaller </b> Used for making it as Fully Functional Software.
 
 ---
+
 ## 🚀 Features
 - Login System
 - Deposit Money
@@ -32,10 +26,21 @@ It solves the problem of Session handling and Real-time data handling.
 ---
 
 ## 🧰 Tech Used
+
 - Python 🐍
 - CustomTkinter
 - SQLite
 - PyInstaller
+
+---
+
+## 📚 Modules & Libraries Used in it 
+<br>
+<b> CustomTkinter </b> : Used for making Modern GUI.
+<br>
+<b> SQLite </b> Used for making Database, Session handling and Real-time data handling.
+<br>
+<b>PyInstaller </b> Used for making it as Fully Functional Software.
 
 ---
 
